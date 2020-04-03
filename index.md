@@ -17,4 +17,4 @@ For more details on upcoming courses see [My Github Wiki](https://ghaliba3.githu
 
 ### Support or Contact
 
-Please let me know if you are looking for a particular course and missing its content. I am available on [headofplatform@googlemail.com]
+Please let me know if you are looking for a particular course and missing its content. I am available on [head.of.platform@googlemail.com]
