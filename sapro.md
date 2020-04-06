@@ -70,4 +70,4 @@ Services/ difficult topics I encountered:
 
 34. 6 Rs of migration: https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
 
-Note: these are useful hints from Mukul G who has attempted the Feb 2019 version of the exam.
+Note: [ghaliba3.github.io/sapro.html](https://ghaliba3.github.io/sapro.html)
