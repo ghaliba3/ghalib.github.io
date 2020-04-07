@@ -63,5 +63,5 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints-access.html
 
 https://aws.amazon.com/blogs/database/applying-best-practices-for-securing-sensitive-data-in-amazon-dynamodb/
 
-
+https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_VPN.html
 
