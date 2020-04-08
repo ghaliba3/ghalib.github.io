@@ -79,6 +79,10 @@ Services/ difficult topics I encountered:
 38. https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html
 
 39. https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html?ref_=pe_411040_126615030
-40.
+40. https://d1.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf
+
+41. https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html
+
+42. https://aws.amazon.com/kinesis/data-streams/faqs/ https://aws.amazon.com/kinesis/data-firehose/faqs/
 
 Note: [ghaliba3.github.io/sapro.html](https://ghaliba3.github.io/sapro.html)
