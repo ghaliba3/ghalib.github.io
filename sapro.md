@@ -2,7 +2,7 @@ I will attempt to document as i have been preparing to launch an affordable trai
 
 Services/ difficult topics I encountered:
 
-1. Lots of AWS Organizations scenario (Multi AWS accounts)
+1. https://aws.amazon.com/ec2/dedicated-hosts/
 
 2. Difference between SCP vs IAM Policy
 
@@ -69,5 +69,16 @@ Services/ difficult topics I encountered:
 33. VPC Endpoint + Private vs Public VIF?
 
 34. 6 Rs of migration: https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
+
+35. https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html
+
+36. https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
+
+37. https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-file-systems.html
+
+38. https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html
+
+39. https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html?ref_=pe_411040_126615030
+40.
 
 Note: [ghaliba3.github.io/sapro.html](https://ghaliba3.github.io/sapro.html)
