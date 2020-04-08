@@ -85,4 +85,17 @@ Services/ difficult topics I encountered:
 
 42. https://aws.amazon.com/kinesis/data-streams/faqs/ https://aws.amazon.com/kinesis/data-firehose/faqs/
 
+43. https://docs.aws.amazon.com/autoscaling/ec2/userguide/scaling_plan.html
+
+44. https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-s3-messages.html (Upto 2GB per message using Java SQS SDK)
+45. https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
+
+46. https://docs.aws.amazon.com/directconnect/latest/UserGuide/getting_started.html
+
+47. https://aws.amazon.com/global-accelerator/features/
+
+48. 
+
+
+
 Note: [ghaliba3.github.io/sapro.html](https://ghaliba3.github.io/sapro.html)
