@@ -94,7 +94,7 @@ Services/ difficult topics I encountered:
 
 47. https://aws.amazon.com/global-accelerator/features/
 
-48. 
+48. https://docs.aws.amazon.com/vpc/latest/peering/peering-configurations-partial-access.html
 
 
 
