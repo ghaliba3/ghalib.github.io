@@ -104,7 +104,9 @@ Services/ difficult topics I encountered:
 
 51. https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html
 
-52. 
+52. https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_example-scps.html#example-scp-deny-region
+
+53. 
 
 
 
