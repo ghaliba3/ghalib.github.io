@@ -24,6 +24,8 @@ Services/ difficult topics I encountered:
 
 11. AWS Config and its integration with other services. Like managing "approved" AMI.
 
+
+
 12. Managing S3 Bucket Permissions - Notify if there is a publicly accessible object in the bucket. Trusted Advisor vs AWS Config?
 
 13. AWS WAF - applying rules for ELB, CloudFront, Amazon API Gateway and EC2
@@ -95,6 +97,14 @@ Services/ difficult topics I encountered:
 47. https://aws.amazon.com/global-accelerator/features/
 
 48. https://docs.aws.amazon.com/vpc/latest/peering/peering-configurations-partial-access.html
+
+49. https://d1.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf
+
+50. https://docs.aws.amazon.com/directoryservice/latest/admin-guide/directory_simple_ad.html
+
+51. https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html
+
+52. 
 
 
 
